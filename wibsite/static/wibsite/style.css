@@ -2,4 +2,23 @@ body {
     font-family: sans-serif;
     color: cornflowerblue;
     background-color: floralwhite;
+    text-align: center;
+
 }
+
+a {
+    color: brown;
+    
+}
+
+#link{
+    background-color:gray ;
+    background-size: 10px;
+    color: cornsilk;
+    margin-left: 700px;
+    text-align: center;
+    width: 200px;
+
+
+}
+

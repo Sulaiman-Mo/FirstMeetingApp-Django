@@ -16,7 +16,11 @@
         </li>
         {% endfor %}
     </ul>
-    <a href="{% url 'rooms'%}">Roomslist</a>
+    <div id="link">
+        <a href="{% url 'rooms'%}">Roomslist</a>
+        <a href="{% url 'new'%}">create meeting</a>
+    </div>
+    
 
     
 {% endblock %}
